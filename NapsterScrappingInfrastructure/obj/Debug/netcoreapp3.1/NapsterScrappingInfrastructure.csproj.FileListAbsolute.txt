@@ -1,0 +1,16 @@
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\selenium-manager\linux\selenium-manager
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\selenium-manager\macos\selenium-manager
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.deps.json
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.dll
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.pdb
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\NapsterScrappingBusiness.dll
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\bin\Debug\netcoreapp3.1\NapsterScrappingBusiness.pdb
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.csproj.AssemblyReference.cache
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.AssemblyInfoInputs.cache
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.AssemblyInfo.cs
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.csproj.CoreCompileInputs.cache
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.dll
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.pdb
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingInfrastructure\obj\Debug\netcoreapp3.1\NapsterScrappingInfrastructure.csproj.CopyComplete

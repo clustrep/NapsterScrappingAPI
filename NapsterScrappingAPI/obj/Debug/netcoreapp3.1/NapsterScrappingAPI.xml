@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NapsterScrappingAPI</name>
+    </assembly>
+    <members>
+        <member name="M:NapsterScrappingAPI.Controllers.GenderController.Get">
+            <summary>
+            Detalle de géneros y subgeneros por género en Napster
+            </summary>
+            <returns>Lista con los detalles de género y subgénero</returns>
+        </member>
+    </members>
+</doc>

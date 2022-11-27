@@ -1,0 +1,13 @@
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\bin\Debug\netcoreapp3.1\NapsterScrappingBusiness.deps.json
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\bin\Debug\netcoreapp3.1\NapsterScrappingBusiness.dll
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\bin\Debug\netcoreapp3.1\NapsterScrappingBusiness.pdb
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.AssemblyInfoInputs.cache
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.AssemblyInfo.cs
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.csproj.CoreCompileInputs.cache
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.dll
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.pdb
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\bin\Debug\netcoreapp3.1\selenium-manager\linux\selenium-manager
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\bin\Debug\netcoreapp3.1\selenium-manager\macos\selenium-manager
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\bin\Debug\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+D:\Napster.Scrapping\NapsterScrappingAPI\NapsterScrappingBusiness\obj\Debug\netcoreapp3.1\NapsterScrappingBusiness.csproj.AssemblyReference.cache
